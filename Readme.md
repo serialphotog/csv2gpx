@@ -1,6 +1,8 @@
-# csv2gpx
+# Deprecation Notice
 
-**DEPRECATED:** This project is extremely old and, frankly, extremely flawed. I'm not going to be updating this, but I did create a much better tool that I recommend you use instead: [GPX Tools](https://github.com/serialphotog/GPX-Tools).
+This project is extremely old and, frankly, extremely flawed. I'm not going to be updating this, but I did create a much better tool that I recommend you use instead: [GPX Tools](https://github.com/serialphotog/GPX-Tools).
+
+# csv2gpx
 
 This is a super simple command line utility to fulfil an extremely niche usecase I had.
 
