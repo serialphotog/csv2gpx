@@ -1,5 +1,7 @@
 # csv2gpx
 
+**DEPRECATED:** This project is extremely old and, frankly, extremely flawed. I'm not going to be updating this, but I did create a much better tool that I recommend you use instead: [GPX Tools](https://github.com/serialphotog/GPX-Tools).
+
 This is a super simple command line utility to fulfil an extremely niche usecase I had.
 
 This utility will take a CSV file containing GPS coordinates and convert the file into a GPX file that can be imported into a GPS. Currently, this program just assumes that each waypoint is in the format of:
